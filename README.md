@@ -6,8 +6,7 @@ Exercício realizado para treinamento das habilidades java do Bootcamp da Digita
 ![java Badge](https://img.shields.io/badge/Java-ED8B00?style=social-square&logo=java&logoColor=white)
 
 
-
-[Dio](https://www.dio.me/sign-in)
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="java" width="25"/> [Dio](https://www.dio.me/sign-in)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)
